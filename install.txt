@@ -1,0 +1,4 @@
+1) Open the downloaded folder named Fire-Alarm-Monitoring-System.
+2) Open fire-alarm-monitoring-system-REST-API in Eclipse and run it on Apache Tomcat server.
+3) Open fire-alarm-monitoring-system-sensors and open each sensor folder and run the HTML file on a web browser to simulate the behavior of a Fire sensor.
+4) Open fire-alarm-monitoring-system-webclient and open a command prompt from that location and run "npm start" to run the web client.
